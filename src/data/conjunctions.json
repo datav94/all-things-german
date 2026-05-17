@@ -1,0 +1,132 @@
+{
+  "slug": "conjunctions",
+  "title": "German Conjunctions",
+  "subtitle": "A clear beachy guide to German conjunctions, word order, and meaning.",
+  "description": "Explore coordinating, subordinating, and adverbial connectors with examples, tips, and usage notes.",
+  "sections": [
+    {
+      "title": "1. The Regular Ones (Coordinating Conjunctions / Position 0)",
+      "description": "These conjunctions connect two main clauses without changing the normal word order. They sit outside the sentence in position 0.",
+      "highlight": "Quick memorization trick: ADUSO.",
+      "rows": [
+        {
+          "conjunction": "Aber",
+          "meaning": "But",
+          "tip": "Use to contrast two ideas.",
+          "example": "Ich möchte kommen, aber ich habe keine Zeit.",
+          "note": "If the subject and verb are the same in both clauses, you can drop them in the second clause."
+        },
+        {
+          "conjunction": "Denn",
+          "meaning": "Because",
+          "tip": "Explains a reason and does not push the verb.",
+          "example": "Er schläft, denn er ist müde.",
+          "note": "Cannot be used at the absolute beginning of a sentence; it must connect to a previous clause."
+        },
+        {
+          "conjunction": "Und",
+          "meaning": "And",
+          "tip": "Connects two similar ideas.",
+          "example": "Ich koche und er wäscht ab.",
+          "note": "Like aber, you can drop the subject/verb in the second part if identical."
+        },
+        {
+          "conjunction": "Sondern",
+          "meaning": "But rather / Instead",
+          "tip": "Used only after a negative statement to correct it.",
+          "example": "Das ist nicht rot, sondern es ist blau.",
+          "note": "Requires a preceding negative; otherwise use aber."
+        },
+        {
+          "conjunction": "Oder",
+          "meaning": "Or",
+          "tip": "Offers an alternative.",
+          "example": "Wir gehen ins Kino, oder wir bleiben zu Hause.",
+          "note": "Commas are optional before oder and und, unlike the others."
+        }
+      ]
+    },
+    {
+      "title": "2. The Verb Pushers (Subordinating Conjunctions)",
+      "description": "These conjunctions create subordinate clauses and push the conjugated verb to the end.",
+      "rows": [
+        {
+          "conjunction": "Weil",
+          "meaning": "Because",
+          "tip": "The standard way to say because; verb goes to the end.",
+          "example": "Ich bleibe zu Hause, weil es regnet.",
+          "note": "Spoken German sometimes treats weil like a regular conjunction, but that is incorrect in writing."
+        },
+        {
+          "conjunction": "Dass",
+          "meaning": "That",
+          "tip": "Used to report speech, thoughts, or feelings.",
+          "example": "Ich weiß, dass du klug bist.",
+          "note": "Don't confuse it with das. Dass is purely a connector."
+        },
+        {
+          "conjunction": "Wenn",
+          "meaning": "If / When(ever)",
+          "tip": "Used for conditions or repeated events.",
+          "example": "Ich helfe dir, wenn ich Zeit habe.",
+          "note": "Cannot be used for a single event in the past; use als instead."
+        },
+        {
+          "conjunction": "Als",
+          "meaning": "When",
+          "tip": "Used for a single past event.",
+          "example": "Als ich ein Kind war, spielte ich viel.",
+          "note": "If the verb pusher clause starts the sentence, the next clause must start with a verb."
+        },
+        {
+          "conjunction": "Obwohl",
+          "meaning": "Although / Even though",
+          "tip": "Sets up a contrast or unexpected result.",
+          "example": "Er geht spazieren, obwohl er krank ist.",
+          "note": "Obgleich or obschon exist, but obwohl is the most common."
+        }
+      ]
+    },
+    {
+      "title": "3. The Verb Magnets (Adverbial Conjunctions / Position 1)",
+      "description": "These words act like adverbs, taking position 1 and pulling the verb into position 2.",
+      "rows": [
+        {
+          "conjunction": "Deshalb / Deswegen",
+          "meaning": "Therefore / That's why",
+          "tip": "Gives the result of a previous statement.",
+          "example": "Es regnet. Deshalb bleibe ich hier.",
+          "note": "Can also be placed later in the sentence, losing the front-magnet effect."
+        },
+        {
+          "conjunction": "Trotzdem",
+          "meaning": "Nevertheless / Still",
+          "tip": "Shows an action despite the first clause.",
+          "example": "Es regnet. Trotzdem gehe ich raus.",
+          "note": "Widely accepted in modern German even when used right after a comma without und."
+        },
+        {
+          "conjunction": "Außerdem",
+          "meaning": "Besides / Furthermore",
+          "tip": "Adds extra supporting information.",
+          "example": "Die Wohnung ist schön. Außerdem ist sie billig.",
+          "note": "Functions like in addition in English."
+        },
+        {
+          "conjunction": "Dann / Danach",
+          "meaning": "Then / After that",
+          "tip": "Great for storytelling and sequencing.",
+          "example": "Wir essen. Danach gehen wir schlafen.",
+          "note": "Dann means next, danach means after that specific thing."
+        },
+        {
+          "conjunction": "Sonst",
+          "meaning": "Otherwise / Or else",
+          "tip": "Gives a consequence if something doesn't happen.",
+          "example": "Beeil dich, sonst verpassen wir den Zug!",
+          "note": "Often paired with a command or strong suggestion."
+        }
+      ]
+    }
+  ]
+}
